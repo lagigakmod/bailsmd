@@ -1,4 +1,4 @@
-# <p align="center">YakuzaXsilence/bails</p>
+# <p align="center">TexasXsilence/bails</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&height=80&lines=YakuzaXsilence%2Fbails;WhatsApp+Modified+Library;Complete+Baileys+API" alt="Typing SVG" />
@@ -13,13 +13,13 @@
 ## <span style="color: #00FFD1; text-shadow: 0 0 10px #00FFD1, 0 0 20px #00FFD1, 0 0 40px #00FFD1;">⚡ Instalasi</span>
 
 "dependencies": {
-  "YakuzaXsilence/bails": "^2.0.0"
+  "TexasXsilence/bails": "^2.0.0"
 }
 jimp sudah include — tidak perlu install jimp terpisah.
 
 <span style="color: #FF6B6B; text-shadow: 0 0 10px #FF6B6B, 0 0 20px #FF6B6B, 0 0 40px #FF6B6B;">📦 Import</span>
 javascript
-const { default: makeWASocket, DisconnectReason } = require('YakuzaXsilence/bails');
+const { default: makeWASocket, DisconnectReason } = require('TexasXsilence/bails');
 <span style="color: #FFD93D; text-shadow: 0 0 10px #FFD93D, 0 0 20px #FFD93D, 0 0 40px #FFD93D;">🚀 Fitur</span>
 Fix memory leak & CPU — mutex + offline batching + WeakMap cache
 
